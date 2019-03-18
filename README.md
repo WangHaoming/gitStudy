@@ -1,3 +1,29 @@
+
+# 准备
+
+请先阅读《[一篇文章，教你学会Git](https://www.jianshu.com/p/9685a56bdf7a)》，理解一下git的基本概念
+
+# 需要掌握命令
+
+- git clone
+- git fetch
+- git pull
+- git add 
+- git commit
+- git status
+- git rebase
+- git revert
+- git reset
+
+
+# 需要熟悉的概念
+
+- merge
+- conflict
+- fork
+- PR
+
+
 # 关于工作区和缓存区
 
 创建一个文件 firstFile.txt
