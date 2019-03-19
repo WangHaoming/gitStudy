@@ -14,8 +14,9 @@
 - git push
 - git status
 - git rebase
-- git revert
 - git reset
+- git revert
+
 
 
 # 需要熟悉的概念
