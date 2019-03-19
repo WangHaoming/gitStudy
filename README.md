@@ -21,8 +21,8 @@
 
 - merge
 - conflict
-- fork
 - PR
+- fork(了解即可)
 
 
 # 关于工作区和缓存区
