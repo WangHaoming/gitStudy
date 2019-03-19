@@ -8,8 +8,9 @@
 - git clone
 - git fetch
 - git pull
-- git add 
+- git add
 - git commit
+- git push
 - git status
 - git rebase
 - git revert
