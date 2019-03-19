@@ -7,6 +7,7 @@
 
 - git clone
 - git fetch
+- git checkout
 - git pull
 - git add
 - git commit
